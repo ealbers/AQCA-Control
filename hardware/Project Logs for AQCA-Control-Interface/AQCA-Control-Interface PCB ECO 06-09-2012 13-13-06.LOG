@@ -1,0 +1,344 @@
+Added Component: Designator=C1(CAPPR7.5-18x35.5)
+Added Component: Designator=C2(CAPPR2-5x11)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPPR2-5x11)
+Added Component: Designator=C?(CAPPR2-5x11)
+Added Component: Designator=C?(CAPPR2-5x11)
+Added Component: Designator=C?(CAPPR2-5x11)
+Added Component: Designator=C?(CAPPR2-5x11)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC3225N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC2012N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=CON1(Molex Mini-Fit 24pin 90deg)
+Added Component: Designator=CON2(Molex Mini-Fit 4pin 90deg)
+Added Component: Designator=CON?(HDR1X3H)
+Added Component: Designator=CON?(HDR1X3H)
+Added Component: Designator=ECC(BNC_RA CON)
+Added Component: Designator=FB?(INDC1608N)
+Added Component: Designator=FB?(Inductor 3.2x3.4 round)
+Added Component: Designator=ICSP(HDR1X5)
+Added Component: Designator=L?(Inductor AIUR5-6)
+Added Component: Designator=L?(Inductor AIUR5-6)
+Added Component: Designator=L?(Inductor AIUR5-6)
+Added Component: Designator=L?(Inductor AIUR5-6)
+Added Component: Designator=LED1(LED 3216m)
+Added Component: Designator=LED?(LED 3216m)
+Added Component: Designator=LED?(LED 3216m)
+Added Component: Designator=PH(BNC_RA CON)
+Added Component: Designator=Q?(SOT23_N)
+Added Component: Designator=Q?(SOT23_N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=TEC?(High-Power Connector 2)
+Added Component: Designator=TEC?(High-Power Connector 2)
+Added Component: Designator=U?(PSOP3-36)
+Added Component: Designator=U?(SOIC8N_N)
+Added Component: Designator=U?(SOIC8N_N)
+Added Component: Designator=U?(TQFP44_N)
+Added Component: Designator=USB?(440478)
+Added Component: Designator=X?(Quartz Can 2.1mm Hor)
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=R?-1
+Added Pin To Net: NetName=AGND Pin=R?-1
+Added Pin To Net: NetName=AGND Pin=R?-2
+Added Pin To Net: NetName=AGND Pin=U?-9
+Added Pin To Net: NetName=AGND Pin=U?-11
+Added Pin To Net: NetName=AGND Pin=U?-12
+Added Pin To Net: NetName=AGND Pin=U?-13
+Added Net: Name=AGND
+Added Pin To Net: NetName=AVDD Pin=C?-2
+Added Pin To Net: NetName=AVDD Pin=C?-2
+Added Pin To Net: NetName=AVDD Pin=C?-2
+Added Pin To Net: NetName=AVDD Pin=C?-2
+Added Pin To Net: NetName=AVDD Pin=C?-2
+Added Pin To Net: NetName=AVDD Pin=C?-2
+Added Pin To Net: NetName=AVDD Pin=C?-2
+Added Pin To Net: NetName=AVDD Pin=FB?-2
+Added Pin To Net: NetName=AVDD Pin=R?-2
+Added Pin To Net: NetName=AVDD Pin=U?-8
+Added Pin To Net: NetName=AVDD Pin=U?-17
+Added Net: Name=AVDD
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=R?-1
+Added Pin To Net: NetName=AVSS Pin=R?-2
+Added Pin To Net: NetName=AVSS Pin=U?-4
+Added Pin To Net: NetName=AVSS Pin=U?-16
+Added Net: Name=AVSS
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=CON1-3
+Added Pin To Net: NetName=GND Pin=CON1-5
+Added Pin To Net: NetName=GND Pin=CON1-7
+Added Pin To Net: NetName=GND Pin=CON1-15
+Added Pin To Net: NetName=GND Pin=CON1-17
+Added Pin To Net: NetName=GND Pin=CON1-18
+Added Pin To Net: NetName=GND Pin=CON1-19
+Added Pin To Net: NetName=GND Pin=CON1-24
+Added Pin To Net: NetName=GND Pin=CON2-1
+Added Pin To Net: NetName=GND Pin=CON2-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=GND Pin=U?-24
+Added Pin To Net: NetName=GND Pin=U?-31
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=U?-5
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-25
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetCON1_8 Pin=CON1-8
+Added Net: Name=NetCON1_8
+Added Pin To Net: NetName=NetCON1_16 Pin=CON1-16
+Added Pin To Net: NetName=NetCON1_16 Pin=R?-1
+Added Net: Name=NetCON1_16
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-1
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-1
+Added Pin To Net: NetName=NetCON?_1 Pin=R?-2
+Added Net: Name=NetCON?_1
+Added Pin To Net: NetName=NetCON?_3 Pin=CON?-3
+Added Pin To Net: NetName=NetCON?_3 Pin=CON?-3
+Added Pin To Net: NetName=NetCON?_3 Pin=R?-1
+Added Net: Name=NetCON?_3
+Added Pin To Net: NetName=NetICSP_1 Pin=ICSP-1
+Added Pin To Net: NetName=NetICSP_1 Pin=R?-2
+Added Pin To Net: NetName=NetICSP_1 Pin=U?-18
+Added Net: Name=NetICSP_1
+Added Pin To Net: NetName=NetICSP_4 Pin=ICSP-4
+Added Net: Name=NetICSP_4
+Added Pin To Net: NetName=NetICSP_5 Pin=ICSP-5
+Added Net: Name=NetICSP_5
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=NetLED1_K Pin=R?-2
+Added Net: Name=NetLED1_K
+Added Pin To Net: NetName=NetLED?_K Pin=LED?-K
+Added Pin To Net: NetName=NetLED?_K Pin=R?-1
+Added Net: Name=NetLED?_K
+Added Pin To Net: NetName=NetPH_1 Pin=PH-1
+Added Pin To Net: NetName=NetPH_1 Pin=R?-1
+Added Net: Name=NetPH_1
+Added Pin To Net: NetName=NetPH_2 Pin=PH-2
+Added Pin To Net: NetName=NetPH_2 Pin=PH-2
+Added Pin To Net: NetName=NetPH_2 Pin=PH-2
+Added Pin To Net: NetName=NetPH_2 Pin=U?-6
+Added Pin To Net: NetName=NetPH_2 Pin=U?-7
+Added Net: Name=NetPH_2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-1
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Net: Name=NetQ?_3
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-7
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Pin To Net: NetName=NetU?_4 Pin=U?-14
+Added Net: Name=NetU?_4
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Pin To Net: NetName=NetU?_6 Pin=U?-16
+Added Net: Name=NetU?_6
+Added Pin To Net: NetName=USB_D_N Pin=U?-9
+Added Pin To Net: NetName=USB_D_N Pin=USB?-2
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=U?-8
+Added Pin To Net: NetName=USB_D_P Pin=USB?-3
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=V3.3 Pin=C2-1
+Added Pin To Net: NetName=V3.3 Pin=C?-1
+Added Pin To Net: NetName=V3.3 Pin=CON1-1
+Added Pin To Net: NetName=V3.3 Pin=CON1-2
+Added Pin To Net: NetName=V3.3 Pin=CON1-12
+Added Pin To Net: NetName=V3.3 Pin=CON1-13
+Added Pin To Net: NetName=V3.3 Pin=FB?-1
+Added Net: Name=V3.3
+Added Pin To Net: NetName=V5SB Pin=CON1-9
+Added Pin To Net: NetName=V5SB Pin=R?-2
+Added Pin To Net: NetName=V5SB Pin=R?-2
+Added Net: Name=V5SB
+Added Pin To Net: NetName=V5 Pin=CON1-4
+Added Pin To Net: NetName=V5 Pin=CON1-6
+Added Pin To Net: NetName=V5 Pin=CON1-21
+Added Pin To Net: NetName=V5 Pin=CON1-22
+Added Pin To Net: NetName=V5 Pin=CON1-23
+Added Net: Name=V5
+Added Pin To Net: NetName=V12 Pin=C1-1
+Added Pin To Net: NetName=V12 Pin=C?-1
+Added Pin To Net: NetName=V12 Pin=C?-1
+Added Pin To Net: NetName=V12 Pin=C?-1
+Added Pin To Net: NetName=V12 Pin=C?-1
+Added Pin To Net: NetName=V12 Pin=C?-1
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=C?-2
+Added Pin To Net: NetName=V12 Pin=CON1-10
+Added Pin To Net: NetName=V12 Pin=CON1-11
+Added Pin To Net: NetName=V12 Pin=CON2-3
+Added Pin To Net: NetName=V12 Pin=CON2-4
+Added Pin To Net: NetName=V12 Pin=U?-1
+Added Pin To Net: NetName=V12 Pin=U?-17
+Added Pin To Net: NetName=V12 Pin=U?-18
+Added Pin To Net: NetName=V12 Pin=U?-19
+Added Pin To Net: NetName=V12 Pin=U?-21
+Added Pin To Net: NetName=V12 Pin=U?-26
+Added Pin To Net: NetName=V12 Pin=U?-29
+Added Pin To Net: NetName=V12 Pin=U?-34
+Added Pin To Net: NetName=V12 Pin=U?-36
+Added Net: Name=V12
+Added Pin To Net: NetName=V-12 Pin=CON1-14
+Added Net: Name=V-12
+Added Pin To Net: NetName=VBUS Pin=U?-42
+Added Pin To Net: NetName=VBUS Pin=USB?-1
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VDD Pin=C?-1
+Added Pin To Net: NetName=VDD Pin=C?-2
+Added Pin To Net: NetName=VDD Pin=C?-2
+Added Pin To Net: NetName=VDD Pin=C?-2
+Added Pin To Net: NetName=VDD Pin=C?-2
+Added Pin To Net: NetName=VDD Pin=FB?-1
+Added Pin To Net: NetName=VDD Pin=FB?-2
+Added Pin To Net: NetName=VDD Pin=ICSP-2
+Added Pin To Net: NetName=VDD Pin=LED1-A
+Added Pin To Net: NetName=VDD Pin=R?-1
+Added Pin To Net: NetName=VDD Pin=R?-2
+Added Pin To Net: NetName=VDD Pin=R?-2
+Added Pin To Net: NetName=VDD Pin=U?-10
+Added Pin To Net: NetName=VDD Pin=U?-28
+Added Pin To Net: NetName=VDD Pin=U?-40
+Added Net: Name=VDD
+Added Pin To Net: NetName=VSS Pin=C?-1
+Added Pin To Net: NetName=VSS Pin=C?-1
+Added Pin To Net: NetName=VSS Pin=C?-1
+Added Pin To Net: NetName=VSS Pin=C?-1
+Added Pin To Net: NetName=VSS Pin=C?-1
+Added Pin To Net: NetName=VSS Pin=C?-1
+Added Pin To Net: NetName=VSS Pin=C?-2
+Added Pin To Net: NetName=VSS Pin=C?-2
+Added Pin To Net: NetName=VSS Pin=CON?-2
+Added Pin To Net: NetName=VSS Pin=CON?-2
+Added Pin To Net: NetName=VSS Pin=ICSP-3
+Added Pin To Net: NetName=VSS Pin=Q?-1
+Added Pin To Net: NetName=VSS Pin=R?-1
+Added Pin To Net: NetName=VSS Pin=R?-1
+Added Pin To Net: NetName=VSS Pin=R?-2
+Added Pin To Net: NetName=VSS Pin=U?-6
+Added Pin To Net: NetName=VSS Pin=U?-29
+Added Pin To Net: NetName=VSS Pin=U?-39
+Added Pin To Net: NetName=VSS Pin=USB?-4
+Added Pin To Net: NetName=VSS Pin=USB?-5
+Added Pin To Net: NetName=VSS Pin=USB?-6
+Added Pin To Net: NetName=VSS Pin=USB?-7
+Added Pin To Net: NetName=VSS Pin=USB?-8
+Added Pin To Net: NetName=VSS Pin=USB?-9
+Added Net: Name=VSS
+Added Class: Name=AQCA-Control-IO-B0
+Added Class: Name=AQCA-Control-Power-B0
+Added Differential Pair: Name=USB_D

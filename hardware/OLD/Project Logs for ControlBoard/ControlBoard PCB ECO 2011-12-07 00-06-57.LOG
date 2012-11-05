@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetLED1_KR Pin=LED1-1
+Removed Pin From Net: NetName=NetLED1_KB Pin=LED1-3
+Removed Pin From Net: NetName=NetLED1_KG Pin=LED1-4
+Removed Pin From Net: NetName=NetLED2_KR Pin=LED2-1
+Removed Pin From Net: NetName=NetLED2_KB Pin=LED2-3
+Removed Pin From Net: NetName=NetLED2_KG Pin=LED2-4
+Removed Pin From Net: NetName=NetLED3_KR Pin=LED3-1
+Removed Pin From Net: NetName=NetLED3_KB Pin=LED3-3
+Removed Pin From Net: NetName=NetLED3_KG Pin=LED3-4
+Change Component DesignItemId : Designator=LED1 Old DesignItemId=LED RGB common A New DesignItemId=LED RGB
+Change Component DesignItemId : Designator=LED2 Old DesignItemId=LED RGB common A New DesignItemId=LED RGB
+Change Component DesignItemId : Designator=LED3 Old DesignItemId=LED RGB common A New DesignItemId=LED RGB
+Change Component Footprint: Designator=LED1 Old Footprint=LED 3528m New Footprint=LED PLCC-6
+Change Component Footprint: Designator=LED2 Old Footprint=LED 3528m New Footprint=LED PLCC-6
+Change Component Footprint: Designator=LED3 Old Footprint=LED 3528m New Footprint=LED PLCC-6
+Change Component Comment : Designator=L1 Old Comment= New Comment=15µH
+Change Component Comment : Designator=LED1 Old Comment=LED RGB common A New Comment=LED RGB
+Change Component Comment : Designator=LED2 Old Comment=LED RGB common A New Comment=LED RGB
+Change Component Comment : Designator=LED3 Old Comment=LED RGB common A New Comment=LED RGB
+Added Component: Designator=LED5(LED 1608m)
+Added Component: Designator=LED6(LED 1608m)
+Added Component: Designator=R30(RESC1608N)
+Added Component: Designator=R31(RESC1608N)
+Added Pin To Net: NetName=NetLED1_KG Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_KR Pin=LED1-3
+Added Pin To Net: NetName=NetLED1_KB Pin=LED1-5
+Added Pin To Net: NetName=NetLED2_KG Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_KR Pin=LED2-3
+Added Pin To Net: NetName=NetLED2_KB Pin=LED2-5
+Added Pin To Net: NetName=NetLED3_KG Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_KR Pin=LED3-3
+Added Pin To Net: NetName=NetLED3_KB Pin=LED3-5
+Added Pin To Net: NetName=NetC11_2 Pin=LED5-1
+Added Pin To Net: NetName=NetC16_2 Pin=LED6-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=NetLED1_AB Pin=LED1-6
+Added Pin To Net: NetName=NetLED1_AB Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_AB Pin=LED1-4
+Added Pin To Net: NetName=NetLED1_AB Pin=U1-32
+Added Net: Name=NetLED1_AB
+Added Pin To Net: NetName=NetLED2_AB Pin=LED2-6
+Added Pin To Net: NetName=NetLED2_AB Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_AB Pin=LED2-4
+Added Pin To Net: NetName=NetLED2_AB Pin=U1-36
+Added Net: Name=NetLED2_AB
+Added Pin To Net: NetName=NetLED3_AB Pin=LED3-6
+Added Pin To Net: NetName=NetLED3_AB Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_AB Pin=LED3-4
+Added Pin To Net: NetName=NetLED3_AB Pin=U1-9
+Added Net: Name=NetLED3_AB
+Added Pin To Net: NetName=NetLED5_K Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_K Pin=R30-1
+Added Net: Name=NetLED5_K
+Added Pin To Net: NetName=NetLED6_K Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_K Pin=R31-1
+Added Net: Name=NetLED6_K
+Added Member To Class: ClassName=TECBoard Member=Component LED5 Red
+Added Member To Class: ClassName=TECBoard Member=Component LED6 Blue
+Added Member To Class: ClassName=TECBoard Member=Component R30 1K
+Added Member To Class: ClassName=TECBoard Member=Component R31 1K
+Added Room: Name=ControlBoard
+Added Room: Name=IOBoard
+Added Room: Name=TECBoard

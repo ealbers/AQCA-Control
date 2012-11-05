@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetLIGHT_1 Pin=Q1-3
+Added Pin To Net: NetName=NetLIGHT_1 Pin=R24-1
+Added Member To Class: ClassName=IOBoard Member=Component Q3 S8050
+Added Member To Class: ClassName=IOBoard Member=Component R28 1K
+Added Room: Name=ControlBoard
+Added Room: Name=IOBoard
+Added Room: Name=TECBoard

@@ -1,0 +1,1573 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+B1
+FOOTPRINT
+Tact TH 4pin 6×6mm
+PARTTYPE
+Tact Button NO
+DESCRIPTION
+
+Comment
+Tact Button NO
+Component Kind
+Standard
+Description
+
+Footprint
+Tact TH 4pin 6×6mm
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Tact Button NO
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+B2
+FOOTPRINT
+Tact TH 4pin 6×6mm
+PARTTYPE
+Tact Button NO
+DESCRIPTION
+
+Comment
+Tact Button NO
+Component Kind
+Standard
+Description
+
+Footprint
+Tact TH 4pin 6×6mm
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Tact Button NO
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+B3
+FOOTPRINT
+Tact TH 4pin 6×6mm
+PARTTYPE
+Tact Button NO
+DESCRIPTION
+
+Comment
+Tact Button NO
+Component Kind
+Standard
+Description
+
+Footprint
+Tact TH 4pin 6×6mm
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Tact Button NO
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+B4
+FOOTPRINT
+Tact TH 4pin 6×6mm
+PARTTYPE
+Tact Button NO
+DESCRIPTION
+
+Comment
+Tact Button NO
+Component Kind
+Standard
+Description
+
+Footprint
+Tact TH 4pin 6×6mm
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Tact Button NO
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+B5
+FOOTPRINT
+Tact TH 4pin 6×6mm
+PARTTYPE
+Tact Button NO
+DESCRIPTION
+
+Comment
+Tact Button NO
+Component Kind
+Standard
+Description
+
+Footprint
+Tact TH 4pin 6×6mm
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Tact Button NO
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+B6
+FOOTPRINT
+Tact TH 4pin 6×6mm
+PARTTYPE
+Tact Button NO
+DESCRIPTION
+
+Comment
+Tact Button NO
+Component Kind
+Standard
+Description
+
+Footprint
+Tact TH 4pin 6×6mm
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Tact Button NO
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+B7
+FOOTPRINT
+Tact TH 4pin 6×6mm
+PARTTYPE
+Tact Button NO
+DESCRIPTION
+
+Comment
+Tact Button NO
+Component Kind
+Standard
+Description
+
+Footprint
+Tact TH 4pin 6×6mm
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Tact Button NO
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+B8
+FOOTPRINT
+Tact TH 4pin 6×6mm
+PARTTYPE
+Tact Button NO
+DESCRIPTION
+
+Comment
+Tact Button NO
+Component Kind
+Standard
+Description
+
+Footprint
+Tact TH 4pin 6×6mm
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Tact Button NO
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+CONN1
+FOOTPRINT
+USB/SM0.8-4H5
+PARTTYPE
+USB-Conn Mini-B SMD
+DESCRIPTION
+
+Comment
+USB-Conn Mini-B SMD
+Component Kind
+Standard
+Description
+
+Footprint
+USB/SM0.8-4H5
+Library Name
+Megaxone.SCHLIB
+Library Reference
+USB-Conn Mini-B SMD
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+EXP_I2C
+FOOTPRINT
+HDR1X4
+PARTTYPE
+Header 4
+DESCRIPTION
+Header, 4-Pin
+Comment
+Header 4
+Component Kind
+Standard
+Description
+Header, 4-Pin
+Footprint
+HDR1X4
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 4
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+EXP_OW
+FOOTPRINT
+HDR1X3
+PARTTYPE
+Header 3
+DESCRIPTION
+Header, 3-Pin
+Comment
+Header 3
+Component Kind
+Standard
+Description
+Header, 3-Pin
+Footprint
+HDR1X3
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 3
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+LCD
+FOOTPRINT
+HDR1X16
+PARTTYPE
+Header 16
+DESCRIPTION
+Header, 16-Pin
+Comment
+Header 16
+Component Kind
+Standard
+Description
+Header, 16-Pin
+Footprint
+HDR1X16
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 16
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+LED1
+FOOTPRINT
+LED 3528m
+PARTTYPE
+LED RGB common A
+DESCRIPTION
+
+Comment
+LED RGB common A
+Component Kind
+Standard
+Description
+
+Footprint
+LED 3528m
+Library Name
+Megaxone.SCHLIB
+Library Reference
+LED RGB common A
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+LED2
+FOOTPRINT
+LED 3528m
+PARTTYPE
+LED RGB common A
+DESCRIPTION
+
+Comment
+LED RGB common A
+Component Kind
+Standard
+Description
+
+Footprint
+LED 3528m
+Library Name
+Megaxone.SCHLIB
+Library Reference
+LED RGB common A
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+LED3
+FOOTPRINT
+LED 3528m
+PARTTYPE
+LED RGB common A
+DESCRIPTION
+
+Comment
+LED RGB common A
+Component Kind
+Standard
+Description
+
+Footprint
+LED 3528m
+Library Name
+Megaxone.SCHLIB
+Library Reference
+LED RGB common A
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+RESC2012N
+PARTTYPE
+470
+DESCRIPTION
+
+Comment
+470
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+470
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+RESC2012N
+PARTTYPE
+330
+DESCRIPTION
+
+Comment
+330
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+330
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R6
+FOOTPRINT
+RESC2012N
+PARTTYPE
+330
+DESCRIPTION
+
+Comment
+330
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+330
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R7
+FOOTPRINT
+RESC2012N
+PARTTYPE
+470
+DESCRIPTION
+
+Comment
+470
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+470
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R8
+FOOTPRINT
+RESC1608N
+PARTTYPE
+1K
+DESCRIPTION
+
+Comment
+1K
+Component Kind
+Standard
+Description
+
+Footprint
+RESC1608N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+1K
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R9
+FOOTPRINT
+RESC2012N
+PARTTYPE
+330
+DESCRIPTION
+
+Comment
+330
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+330
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R12
+FOOTPRINT
+RESC2012N
+PARTTYPE
+330
+DESCRIPTION
+
+Comment
+330
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+330
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R13
+FOOTPRINT
+RESC2012N
+PARTTYPE
+470
+DESCRIPTION
+
+Comment
+470
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+470
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R14
+FOOTPRINT
+RESC1608N
+PARTTYPE
+10K
+DESCRIPTION
+
+Comment
+10K
+Component Kind
+Standard
+Description
+
+Footprint
+RESC1608N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R15
+FOOTPRINT
+RESC2012N
+PARTTYPE
+330
+DESCRIPTION
+
+Comment
+330
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+330
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R16
+FOOTPRINT
+RESC2012N
+PARTTYPE
+330
+DESCRIPTION
+
+Comment
+330
+Component Kind
+Standard
+Description
+
+Footprint
+RESC2012N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+330
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R17
+FOOTPRINT
+RESC1608N
+PARTTYPE
+10K
+DESCRIPTION
+
+Comment
+10K
+Component Kind
+Standard
+Description
+
+Footprint
+RESC1608N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R18
+FOOTPRINT
+RESC1608N
+PARTTYPE
+10K
+DESCRIPTION
+
+Comment
+10K
+Component Kind
+Standard
+Description
+
+Footprint
+RESC1608N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R19
+FOOTPRINT
+RESC1608N
+PARTTYPE
+10K
+DESCRIPTION
+
+Comment
+10K
+Component Kind
+Standard
+Description
+
+Footprint
+RESC1608N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R20
+FOOTPRINT
+RESC1608N
+PARTTYPE
+10K
+DESCRIPTION
+
+Comment
+10K
+Component Kind
+Standard
+Description
+
+Footprint
+RESC1608N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Rbacklight
+FOOTPRINT
+RESC1608N
+PARTTYPE
+1K
+DESCRIPTION
+
+Comment
+1K
+Component Kind
+Standard
+Description
+
+Footprint
+RESC1608N
+Library Name
+Megaxone.SCHLIB
+Library Reference
+Resistor
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Value
+1K
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+(
+GND
+CONN1-4 USB-Conn Mini-B SMD-ID IO           
+CONN1-5 USB-Conn Mini-B SMD-GND Power        
+CONN1-6 USB-Conn Mini-B SMD-SHD Power        
+CONN1-7 USB-Conn Mini-B SMD-SHD Passive      
+CONN1-8 USB-Conn Mini-B SMD-SHD Passive      
+CONN1-9 USB-Conn Mini-B SMD-SHD Passive      
+)
+(
+NetB1_1
+B1-1 Tact Button NO-1 Passive      
+B3-1 Tact Button NO-1 Passive      
+B5-1 Tact Button NO-1 Passive      
+B7-1 Tact Button NO-1 Passive      
+)
+(
+NetB1_2
+B1-2 Tact Button NO-2 Passive      
+B2-2 Tact Button NO-2 Passive      
+R17-1 10K-1 Passive      
+)
+(
+NetB2_1
+B2-1 Tact Button NO-1 Passive      
+B4-1 Tact Button NO-1 Passive      
+B6-1 Tact Button NO-1 Passive      
+B8-1 Tact Button NO-1 Passive      
+)
+(
+NetB3_2
+B3-2 Tact Button NO-2 Passive      
+B4-2 Tact Button NO-2 Passive      
+R18-1 10K-1 Passive      
+)
+(
+NetB5_2
+B5-2 Tact Button NO-2 Passive      
+B6-2 Tact Button NO-2 Passive      
+R19-1 10K-1 Passive      
+)
+(
+NetB7_2
+B7-2 Tact Button NO-2 Passive      
+B8-2 Tact Button NO-2 Passive      
+R20-1 10K-1 Passive      
+)
+(
+NetCONN1_2
+CONN1-2 USB-Conn Mini-B SMD-D- IO           
+)
+(
+NetCONN1_3
+CONN1-3 USB-Conn Mini-B SMD-D+ IO           
+)
+(
+NetEXP_I2C_2
+EXP_I2C-2 Header 4-2 Passive      
+)
+(
+NetEXP_I2C_3
+EXP_I2C-3 Header 4-3 Passive      
+)
+(
+NetEXP_OW_2
+EXP_OW-2 Header 3-2 Passive      
+)
+(
+NetLCD_3
+LCD-3 Header 16-3 Passive      
+R8-1 1K-1 Passive      
+R14-1 10K-1 Passive      
+)
+(
+NetLCD_4
+LCD-4 Header 16-4 Passive      
+)
+(
+NetLCD_6
+LCD-6 Header 16-6 Passive      
+)
+(
+NetLCD_11
+LCD-11 Header 16-11 Passive      
+)
+(
+NetLCD_12
+LCD-12 Header 16-12 Passive      
+)
+(
+NetLCD_13
+LCD-13 Header 16-13 Passive      
+)
+(
+NetLCD_14
+LCD-14 Header 16-14 Passive      
+)
+(
+NetLCD_15
+LCD-15 Header 16-15 Passive      
+Rbacklight-2 1K-2 Passive      
+)
+(
+NetLED1_A
+LED1-A LED RGB common A-A Passive      
+)
+(
+NetLED1_KB
+LED1-KB LED RGB common A-KB Passive      
+R6-1 330-1 Passive      
+)
+(
+NetLED1_KG
+LED1-KG LED RGB common A-KG Passive      
+R5-1 330-1 Passive      
+)
+(
+NetLED1_KR
+LED1-KR LED RGB common A-KR Passive      
+R4-1 470-1 Passive      
+)
+(
+NetLED2_A
+LED2-A LED RGB common A-A Passive      
+)
+(
+NetLED2_KB
+LED2-KB LED RGB common A-KB Passive      
+R12-1 330-1 Passive      
+)
+(
+NetLED2_KG
+LED2-KG LED RGB common A-KG Passive      
+R9-1 330-1 Passive      
+)
+(
+NetLED2_KR
+LED2-KR LED RGB common A-KR Passive      
+R7-1 470-1 Passive      
+)
+(
+NetLED3_A
+LED3-A LED RGB common A-A Passive      
+)
+(
+NetLED3_KB
+LED3-KB LED RGB common A-KB Passive      
+R16-1 330-1 Passive      
+)
+(
+NetLED3_KG
+LED3-KG LED RGB common A-KG Passive      
+R15-1 330-1 Passive      
+)
+(
+NetLED3_KR
+LED3-KR LED RGB common A-KR Passive      
+R13-1 470-1 Passive      
+)
+(
+NetR4_2
+R4-2 470-2 Passive      
+R7-2 470-2 Passive      
+R13-2 470-2 Passive      
+)
+(
+NetR5_2
+R5-2 330-2 Passive      
+R9-2 330-2 Passive      
+R15-2 330-2 Passive      
+)
+(
+NetR6_2
+R6-2 330-2 Passive      
+R12-2 330-2 Passive      
+R16-2 330-2 Passive      
+)
+(
+V3.3
+EXP_OW-1 Header 3-1 Passive      
+)
+(
+V5
+LCD-2 Header 16-2 Passive      
+R8-2 1K-2 Passive      
+Rbacklight-1 1K-1 Passive      
+)
+(
+V12
+EXP_I2C-1 Header 4-1 Passive      
+)
+(
+VSS
+EXP_I2C-4 Header 4-4 Passive      
+EXP_OW-3 Header 3-3 Passive      
+LCD-1 Header 16-1 Passive      
+LCD-5 Header 16-5 Passive      
+LCD-7 Header 16-7 Passive      
+LCD-8 Header 16-8 Passive      
+LCD-9 Header 16-9 Passive      
+LCD-10 Header 16-10 Passive      
+LCD-16 Header 16-16 Passive      
+R14-2 10K-2 Passive      
+R17-2 10K-2 Passive      
+R18-2 10K-2 Passive      
+R19-2 10K-2 Passive      
+R20-2 10K-2 Passive      
+)

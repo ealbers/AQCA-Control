@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VSS Pin=CONN1-MH1
+Removed Pin From Net: NetName=VSS Pin=CONN1-MH2
+Removed Pin From Net: NetName=VSS Pin=CONN1-MH3
+Removed Pin From Net: NetName=VSS Pin=CONN1-MH4
+Change Component Footprint: Designator=CONN1 Old Footprint=USB/SM0.8-4H5 New Footprint=440478
+Added Pin To Net: NetName=VSS Pin=CONN1-6
+Added Pin To Net: NetName=VSS Pin=CONN1-7
+Added Pin To Net: NetName=VSS Pin=CONN1-8
+Added Pin To Net: NetName=VSS Pin=CONN1-9
+Added Member To Class: ClassName=IOBoard Member=Component C38 1µF
+Added Member To Class: ClassName=IOBoard Member=Component R37 30.9K
+Added Member To Class: ClassName=IOBoard Member=Component U8 MAX4477
+Added Room: Name=ControlBoard
+Added Room: Name=IOBoard
+Added Room: Name=TECBoard

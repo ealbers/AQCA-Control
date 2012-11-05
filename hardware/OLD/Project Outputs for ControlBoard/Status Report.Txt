@@ -1,0 +1,10 @@
+Output: Protel2 Netlist
+Type  : Protel2Netlist
+From  : Project [ControlBoard.PrjPCB]
+   Generated File[IOBoard.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:30:44 On 2011-12-01

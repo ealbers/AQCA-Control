@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=AQCA-Control-Power-B0 Member=C18
+Removed Member From Class: ClassName=AQCA-Control-Power-B0 Member=U2
+Change Component Footprint: Designator=U1 Old Footprint=SOIC8N_N New Footprint=UMAX8_N
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C29 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component L4 3.9µH
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R19 470
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component U3 DRV8432

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetR36_2 Pin=U1-19
+Added Pin To Net: NetName=NetTEMP1_1 Pin=U1-20
+Added Pin To Net: NetName=NetTEMP2_1 Pin=U1-21
+Added Pin To Net: NetName=NetR37_2 Pin=U1-22
+Added Room: Name=ControlBoard
+Added Room: Name=IOBoard
+Added Room: Name=TECBoard

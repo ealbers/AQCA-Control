@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=AVSS Pin=C38-1
+Removed Pin From Net: NetName=AVDD Pin=C38-2
+Removed Pin From Net: NetName=AVSS Pin=C41-1
+Removed Pin From Net: NetName=AVDD Pin=C41-2
+Removed Pin From Net: NetName=AVDD Pin=R30-1
+Removed Pin From Net: NetName=AVDD Pin=R31-1
+Removed Pin From Net: NetName=AVDD Pin=R32-2
+Removed Pin From Net: NetName=AVDD Pin=R33-2
+Removed Pin From Net: NetName=AVSS Pin=R34-1
+Removed Pin From Net: NetName=AVSS Pin=R35-1
+Removed Pin From Net: NetName=AVSS Pin=U6-4
+Removed Pin From Net: NetName=AVDD Pin=U6-8
+Removed Member From Class: ClassName=IOBoard Member=C38
+Removed Member From Class: ClassName=IOBoard Member=C41
+Removed Member From Class: ClassName=IOBoard Member=R30
+Removed Member From Class: ClassName=IOBoard Member=R31
+Removed Member From Class: ClassName=IOBoard Member=R32
+Removed Member From Class: ClassName=IOBoard Member=R33
+Removed Member From Class: ClassName=IOBoard Member=R34
+Removed Member From Class: ClassName=IOBoard Member=R35
+Removed Member From Class: ClassName=IOBoard Member=U6
+Change Component DesignItemId : Designator=TEMP1 Old DesignItemId=Header 2H New DesignItemId=Header 3H
+Change Component DesignItemId : Designator=TEMP2 Old DesignItemId=Header 2H New DesignItemId=Header 3H
+Change Component Footprint: Designator=TEMP1 Old Footprint=HDR1X2H New Footprint=HDR1X3H
+Change Component Footprint: Designator=TEMP2 Old Footprint=HDR1X2H New Footprint=HDR1X3H
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR 6×6mm Taiyo Yuden New Footprint=Inductor 3.2x3.4 round
+Change Component Comment : Designator=TEMP1 Old Comment=Header 2H New Comment=Header 3H
+Change Component Comment : Designator=TEMP2 Old Comment=Header 2H New Comment=Header 3H
+Added Pin To Net: NetName=V3.3 Pin=TEMP1-1
+Added Pin To Net: NetName=VSS Pin=TEMP1-3
+Added Pin To Net: NetName=V3.3 Pin=TEMP2-1
+Added Pin To Net: NetName=VSS Pin=TEMP2-3
+Added Pin To Net: NetName=NetTEMP1_2 Pin=TEMP1-2
+Added Pin To Net: NetName=NetTEMP1_2 Pin=U1-20
+Added Net: Name=NetTEMP1_2
+Added Pin To Net: NetName=NetTEMP2_2 Pin=TEMP2-2
+Added Pin To Net: NetName=NetTEMP2_2 Pin=U1-21
+Added Net: Name=NetTEMP2_2
+Added Room: Name=ControlBoard
+Added Room: Name=IOBoard
+Added Room: Name=TECBoard

@@ -1,0 +1,432 @@
+Removed Pin From Net: NetName=VSS Pin=C?-2
+Removed Pin From Net: NetName=VDD Pin=FB?-2
+Removed Pin From Net: NetName=VSS Pin=R?-1
+Removed Pin From Net: NetName=VSS Pin=R?-2
+Removed Pin From Net: NetName=V12 Pin=U?-1
+Removed Pin From Net: NetName=AGND Pin=U?-11
+Removed Pin From Net: NetName=AGND Pin=U?-12
+Removed Pin From Net: NetName=AGND Pin=U?-13
+Removed Pin From Net: NetName=V12 Pin=U?-17
+Removed Pin From Net: NetName=V12 Pin=U?-18
+Removed Pin From Net: NetName=V12 Pin=U?-19
+Removed Pin From Net: NetName=V12 Pin=U?-21
+Removed Pin From Net: NetName=GND Pin=U?-23
+Removed Pin From Net: NetName=GND Pin=U?-24
+Removed Pin From Net: NetName=V12 Pin=U?-26
+Removed Pin From Net: NetName=GND Pin=U?-31
+Removed Pin From Net: NetName=GND Pin=U?-32
+Removed Pin From Net: NetName=V12 Pin=U?-34
+Removed Pin From Net: NetName=V12 Pin=U?-36
+Removed Member From Class: ClassName=AQCA-Control-IO-B0 Member=C?
+Removed Member From Class: ClassName=AQCA-Control-IO-B0 Member=FB?
+Removed Member From Class: ClassName=AQCA-Control-IO-B0 Member=Q?
+Removed Member From Class: ClassName=AQCA-Control-IO-B0 Member=R?
+Removed Member From Class: ClassName=AQCA-Control-IO-B0 Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C46
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=CON? NewDesignator=CON3
+Change Component Designator: OldDesignator=CON? NewDesignator=CON4
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB2
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=L? NewDesignator=L4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=TEC? NewDesignator=TEC1
+Change Component Designator: OldDesignator=TEC? NewDesignator=TEC2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=USB? NewDesignator=USB1
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Added Pin To Net: NetName=VSS Pin=C3-1
+Added Pin To Net: NetName=VDD Pin=C3-2
+Added Pin To Net: NetName=AVSS Pin=C4-1
+Added Pin To Net: NetName=AVDD Pin=C4-2
+Added Pin To Net: NetName=AVSS Pin=C5-1
+Added Pin To Net: NetName=AVDD Pin=C5-2
+Added Pin To Net: NetName=AVSS Pin=C6-1
+Added Pin To Net: NetName=AVDD Pin=C6-2
+Added Pin To Net: NetName=AVSS Pin=C7-1
+Added Pin To Net: NetName=AVDD Pin=C7-2
+Added Pin To Net: NetName=AVSS Pin=C8-1
+Added Pin To Net: NetName=AVDD Pin=C8-2
+Added Pin To Net: NetName=AVSS Pin=C9-1
+Added Pin To Net: NetName=AVDD Pin=C9-2
+Added Pin To Net: NetName=AVSS Pin=C10-1
+Added Pin To Net: NetName=VSS Pin=C11-2
+Added Pin To Net: NetName=AVDD Pin=C12-2
+Added Pin To Net: NetName=VSS Pin=C14-1
+Added Pin To Net: NetName=VDD Pin=C14-2
+Added Pin To Net: NetName=AVSS Pin=C15-1
+Added Pin To Net: NetName=VDD Pin=C16-2
+Added Pin To Net: NetName=VSS Pin=C17-1
+Added Pin To Net: NetName=VDD Pin=C17-2
+Added Pin To Net: NetName=VSS Pin=C18-1
+Added Pin To Net: NetName=VSS Pin=C19-1
+Added Pin To Net: NetName=V12 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=V12 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=V12 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=V12 Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=V12 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=V12 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=V12 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=V12 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=V12 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=V12 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=V12 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=V12 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=V12 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=V12 Pin=C33-2
+Added Pin To Net: NetName=AGND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=V3.3 Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=VDD Pin=C48-1
+Added Pin To Net: NetName=VSS Pin=C48-2
+Added Pin To Net: NetName=VSS Pin=CON4-2
+Added Pin To Net: NetName=AVDD Pin=FB1-2
+Added Pin To Net: NetName=V3.3 Pin=FB2-1
+Added Pin To Net: NetName=VDD Pin=FB2-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=VDD Pin=R1-2
+Added Pin To Net: NetName=VSS Pin=R4-1
+Added Pin To Net: NetName=AVSS Pin=R4-2
+Added Pin To Net: NetName=VDD Pin=R5-2
+Added Pin To Net: NetName=NetPH_1 Pin=R6-1
+Added Pin To Net: NetName=AVDD Pin=R8-2
+Added Pin To Net: NetName=AVSS Pin=R9-1
+Added Pin To Net: NetName=VDD Pin=R10-1
+Added Pin To Net: NetName=NetICSP_1 Pin=R10-2
+Added Pin To Net: NetName=AGND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=AGND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=AGND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetCON1_16 Pin=R16-1
+Added Pin To Net: NetName=V5SB Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=V5SB Pin=R18-2
+Added Pin To Net: NetName=VSS Pin=R19-1
+Added Pin To Net: NetName=NetLED1_K Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=VSS Pin=R20-2
+Added Pin To Net: NetName=AVSS Pin=U1-4
+Added Pin To Net: NetName=NetPH_2 Pin=U1-6
+Added Pin To Net: NetName=NetPH_2 Pin=U1-7
+Added Pin To Net: NetName=AVDD Pin=U1-8
+Added Pin To Net: NetName=AVSS Pin=U2-16
+Added Pin To Net: NetName=AVDD Pin=U2-17
+Added Pin To Net: NetName=NetICSP_1 Pin=U2-18
+Added Pin To Net: NetName=V12 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=AGND Pin=U3-9
+Added Pin To Net: NetName=AGND Pin=U3-11
+Added Pin To Net: NetName=AGND Pin=U3-12
+Added Pin To Net: NetName=AGND Pin=U3-13
+Added Pin To Net: NetName=V12 Pin=U3-17
+Added Pin To Net: NetName=V12 Pin=U3-18
+Added Pin To Net: NetName=V12 Pin=U3-19
+Added Pin To Net: NetName=V12 Pin=U3-21
+Added Pin To Net: NetName=GND Pin=U3-23
+Added Pin To Net: NetName=GND Pin=U3-24
+Added Pin To Net: NetName=V12 Pin=U3-26
+Added Pin To Net: NetName=V12 Pin=U3-29
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=GND Pin=U3-32
+Added Pin To Net: NetName=V12 Pin=U3-34
+Added Pin To Net: NetName=V12 Pin=U3-36
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R7-2
+Added Pin To Net: NetName=NetC10_2 Pin=U1-3
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U2-7
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=C15-2
+Added Pin To Net: NetName=NetC12_1 Pin=R8-1
+Added Pin To Net: NetName=NetC12_1 Pin=R9-2
+Added Pin To Net: NetName=NetC12_1 Pin=U1-5
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U1-1
+Added Pin To Net: NetName=NetC13_1 Pin=U1-2
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R6-2
+Added Pin To Net: NetName=NetC13_2 Pin=R7-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=U2-30
+Added Pin To Net: NetName=NetC18_2 Pin=X1-2
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U2-31
+Added Pin To Net: NetName=NetC19_2 Pin=X1-1
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=U3-10
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=C36-2
+Added Pin To Net: NetName=NetC35_2 Pin=C37-2
+Added Pin To Net: NetName=NetC35_2 Pin=L1-2
+Added Pin To Net: NetName=NetC35_2 Pin=LED2-A
+Added Pin To Net: NetName=NetC35_2 Pin=TEC1-1
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=C37-1
+Added Pin To Net: NetName=NetC36_1 Pin=C40-2
+Added Pin To Net: NetName=NetC36_1 Pin=L2-2
+Added Pin To Net: NetName=NetC36_1 Pin=TEC1-2
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=U3-35
+Added Net: Name=NetC38_1
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Pin To Net: NetName=NetC38_2 Pin=L1-1
+Added Pin To Net: NetName=NetC38_2 Pin=U3-33
+Added Net: Name=NetC38_2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=U3-28
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=L2-1
+Added Pin To Net: NetName=NetC39_2 Pin=U3-30
+Added Net: Name=NetC39_2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=U3-27
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=L3-1
+Added Pin To Net: NetName=NetC41_2 Pin=U3-25
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=NetC42_1 Pin=U3-20
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=L4-1
+Added Pin To Net: NetName=NetC42_2 Pin=U3-22
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=C44-2
+Added Pin To Net: NetName=NetC43_2 Pin=C45-2
+Added Pin To Net: NetName=NetC43_2 Pin=L3-2
+Added Pin To Net: NetName=NetC43_2 Pin=TEC2-1
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=C45-1
+Added Pin To Net: NetName=NetC44_1 Pin=C46-2
+Added Pin To Net: NetName=NetC44_1 Pin=L4-2
+Added Pin To Net: NetName=NetC44_1 Pin=LED3-A
+Added Pin To Net: NetName=NetC44_1 Pin=TEC2-2
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetCON3_1 Pin=CON3-1
+Added Pin To Net: NetName=NetCON3_1 Pin=CON4-1
+Added Pin To Net: NetName=NetCON3_1 Pin=R2-2
+Added Net: Name=NetCON3_1
+Added Pin To Net: NetName=NetCON3_3 Pin=CON3-3
+Added Pin To Net: NetName=NetCON3_3 Pin=CON4-3
+Added Pin To Net: NetName=NetCON3_3 Pin=R5-1
+Added Net: Name=NetCON3_3
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-K
+Added Pin To Net: NetName=NetLED2_K Pin=R12-1
+Added Net: Name=NetLED2_K
+Added Pin To Net: NetName=NetLED3_K Pin=LED3-K
+Added Pin To Net: NetName=NetLED3_K Pin=R15-1
+Added Net: Name=NetLED3_K
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_1 Pin=R17-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R16-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U3-7
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U3-5
+Added Pin To Net: NetName=NetR13_2 Pin=U3-15
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Net: Name=NetU3_2
+Added Pin To Net: NetName=NetU3_3 Pin=U3-3
+Added Net: Name=NetU3_3
+Added Pin To Net: NetName=NetU3_4 Pin=U3-4
+Added Pin To Net: NetName=NetU3_4 Pin=U3-14
+Added Net: Name=NetU3_4
+Added Pin To Net: NetName=NetU3_6 Pin=U3-6
+Added Pin To Net: NetName=NetU3_6 Pin=U3-16
+Added Net: Name=NetU3_6
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C3 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C4 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C5 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C6 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C7 1µF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C8 1µF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C9 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C10 1µF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C11 10µF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C12 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C13 10µF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C14 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C15 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C16 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C17 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C18 16pF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C19 16pF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C20 33µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C21 33µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C22 33µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C23 33µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C24 33µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C25 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C26 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C27 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C28 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C30 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C31 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C32 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C33 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C34 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C35 10µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C36 10µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C37 10µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C38 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C39 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C40 10µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C41 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C42 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C43 10µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C44 10µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C45 10µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C46 10µF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C47 100nF
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component C48 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component CON3 Header 3H
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component FB1 120
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component L1 3.9µH
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component L2 3.9µH
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component L3 3.9µH
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component LED2 Red
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component Q1 *
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R1 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R2 1K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R3 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R4 0
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R5 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R6 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R7 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R8 12.4K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R9 12.4K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R10 10K
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R11 27K
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R12 1K
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R13 10K
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R14 0
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R15 1K
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R16 10K
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R17 10K
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R18 10K
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component R20 0
+Added Member To Class: ClassName=AQCA-Control-Power-B0 Member=Component TEC1 High-Power Connector 2p
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component U1 MAX4477
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component U2 PIC32MX250FxxxD
+Added Room: Name=AQCA-Control-IO-B0
+Added Room: Name=AQCA-Control-Power-B0

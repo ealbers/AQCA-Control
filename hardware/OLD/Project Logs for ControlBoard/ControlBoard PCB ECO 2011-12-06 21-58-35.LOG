@@ -1,0 +1,18 @@
+Change Component Comment : Designator=R17 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R18 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R19 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R20 Old Comment=10K New Comment=100K
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=FB2(INDC1608N)
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVSS Pin=C?-1
+Added Pin To Net: NetName=AVDD Pin=C?-2
+Added Pin To Net: NetName=V3.3 Pin=C?-2
+Added Pin To Net: NetName=V3.3 Pin=FB2-1
+Added Pin To Net: NetName=AVDD Pin=FB2-2
+Added Member To Class: ClassName=IOBoard Member=Component C? 1µF
+Added Member To Class: ClassName=IOBoard Member=Component FB2 150R
+Added Room: Name=ControlBoard
+Added Room: Name=IOBoard
+Added Room: Name=TECBoard

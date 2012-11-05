@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Added Pin To Net: NetName=VSS Pin=Q2-2
+Added Pin To Net: NetName=NetLIGHT_2 Pin=Q2-3
+Added Pin To Net: NetName=VSS Pin=Q3-2
+Added Pin To Net: NetName=NetLIGHT_3 Pin=Q3-3
+Added Pin To Net: NetName=V5 Pin=R24-2
+Added Pin To Net: NetName=NetLIGHT_2 Pin=R26-1
+Added Pin To Net: NetName=V5 Pin=R26-2
+Added Pin To Net: NetName=NetICSP_5 Pin=R27-1
+Added Pin To Net: NetName=NetLIGHT_3 Pin=R28-1
+Added Pin To Net: NetName=V5 Pin=R28-2
+Added Pin To Net: NetName=NetICSP_4 Pin=R29-1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR25_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R24-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R27-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R29-2
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=IOBoard Member=Component Q1 S8050
+Added Member To Class: ClassName=IOBoard Member=Component Q2 S8050
+Added Member To Class: ClassName=IOBoard Member=Component R24 1K
+Added Member To Class: ClassName=IOBoard Member=Component R25 1K
+Added Member To Class: ClassName=IOBoard Member=Component R26 1K
+Added Member To Class: ClassName=IOBoard Member=Component R27 1K
+Added Member To Class: ClassName=IOBoard Member=Component R29 1K

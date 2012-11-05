@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=V12 Pin=EXP_I2C-1
+Change Component Footprint: Designator=L2 Old Footprint=INDC5750N New Footprint=Inductor 9.1×7.6mm TH
+Change Component Footprint: Designator=L3 Old Footprint=INDC5750N New Footprint=Inductor 9.1×7.6mm TH
+Change Component Footprint: Designator=L4 Old Footprint=INDC5750N New Footprint=Inductor 9.1×7.6mm TH
+Change Component Footprint: Designator=L5 Old Footprint=INDC5750N New Footprint=Inductor 9.1×7.6mm TH
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR 6×6mm Taiyo Yuden New Footprint=Inductor 3.2x3.4 round
+Change Component Comment : Designator=L2 Old Comment= New Comment=10nH
+Change Component Comment : Designator=L3 Old Comment= New Comment=10nH
+Change Component Comment : Designator=L4 Old Comment= New Comment=10nH
+Change Component Comment : Designator=L5 Old Comment= New Comment=10nH
+Change Component Comment : Designator=L1 Old Comment=22µH New Comment=
+Change Component Designator: OldDesignator=P_ICSP NewDesignator=ICSP
+Added Component: Designator=LIGHT(HDR1X4)
+Added Component: Designator=PH(BNC_RA CON)
+Added Component: Designator=PPM(BNC_RA CON)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Pin To Net: NetName=V3.3 Pin=EXP_I2C-1
+Added Pin To Net: NetName=VSS Pin=LIGHT-4
+Added Pin To Net: NetName=VSS Pin=Q?-2
+Added Pin To Net: NetName=VSS Pin=Q?-2
+Added Pin To Net: NetName=VSS Pin=Q?-2
+Added Pin To Net: NetName=V5 Pin=R?-2
+Added Pin To Net: NetName=V5 Pin=R?-2
+Added Pin To Net: NetName=V5 Pin=R?-2
+Change Net Name : Old Net Name=NetP_ICSP_1 New Net Name=NetICSP_1
+Added Pin To Net: NetName=AVSS Pin=PH-2
+Added Pin To Net: NetName=AVSS Pin=PH-2
+Added Pin To Net: NetName=AVSS Pin=PH-2
+Added Pin To Net: NetName=AVSS Pin=PPM-2
+Added Pin To Net: NetName=AVSS Pin=PPM-2
+Added Pin To Net: NetName=AVSS Pin=PPM-2
+Added Net: Name=AVSS
+Added Pin To Net: NetName=NetICSP_4 Pin=ICSP-4
+Added Pin To Net: NetName=NetICSP_4 Pin=R?-1
+Added Pin To Net: NetName=NetICSP_4 Pin=U1-17
+Added Net: Name=NetICSP_4
+Added Pin To Net: NetName=NetICSP_5 Pin=ICSP-5
+Added Pin To Net: NetName=NetICSP_5 Pin=R?-1
+Added Pin To Net: NetName=NetICSP_5 Pin=U1-16
+Added Net: Name=NetICSP_5
+Added Pin To Net: NetName=NetLIGHT_1 Pin=LIGHT-1
+Added Net: Name=NetLIGHT_1
+Added Pin To Net: NetName=NetLIGHT_2 Pin=LIGHT-2
+Added Pin To Net: NetName=NetLIGHT_2 Pin=Q?-3
+Added Pin To Net: NetName=NetLIGHT_2 Pin=R?-1
+Added Net: Name=NetLIGHT_2
+Added Pin To Net: NetName=NetLIGHT_3 Pin=LIGHT-3
+Added Pin To Net: NetName=NetLIGHT_3 Pin=Q?-3
+Added Pin To Net: NetName=NetLIGHT_3 Pin=R?-1
+Added Net: Name=NetLIGHT_3
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Net: Name=NetQ?_3
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U1-15
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=TECBoard Member=Component C34 10µF
+Added Member To Class: ClassName=IOBoard Member=Component LIGHT Header 4
+Added Member To Class: ClassName=IOBoard Member=Component PH BNC
+Added Member To Class: ClassName=IOBoard Member=Component PPM BNC
+Added Member To Class: ClassName=IOBoard Member=Component Q? S8050
+Added Member To Class: ClassName=IOBoard Member=Component R? 1K
+Added Room: Name=ControlBoard
+Added Room: Name=IOBoard
+Added Room: Name=TECBoard

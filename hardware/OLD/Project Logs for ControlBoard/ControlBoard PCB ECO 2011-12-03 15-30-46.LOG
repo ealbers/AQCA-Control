@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=AVDD Pin=C?-2
+Removed Pin From Net: NetName=NetTEMP1_1 Pin=U?-1
+Removed Pin From Net: NetName=AVSS Pin=U?-3
+Removed Pin From Net: NetName=AVSS Pin=U?-4
+Removed Pin From Net: NetName=NetPH2_2 Pin=U?-6
+Removed Pin From Net: NetName=NetTEMP2_1 Pin=U?-7
+Removed Pin From Net: NetName=AVDD Pin=U?-8
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Added Pin To Net: NetName=AVSS Pin=C36-1
+Added Pin To Net: NetName=AVDD Pin=C36-2
+Added Pin To Net: NetName=AVSS Pin=C37-1
+Added Pin To Net: NetName=AVDD Pin=C37-2
+Added Pin To Net: NetName=AVSS Pin=C38-1
+Added Pin To Net: NetName=AVDD Pin=C38-2
+Added Pin To Net: NetName=AVSS Pin=C39-1
+Added Pin To Net: NetName=AVDD Pin=C39-2
+Added Pin To Net: NetName=AVSS Pin=C40-1
+Added Pin To Net: NetName=AVDD Pin=C40-2
+Added Pin To Net: NetName=AVSS Pin=C41-1
+Added Pin To Net: NetName=AVDD Pin=C41-2
+Added Pin To Net: NetName=V3.3 Pin=C42-2
+Added Pin To Net: NetName=AVSS Pin=C43-1
+Added Pin To Net: NetName=AVDD Pin=C43-2
+Added Pin To Net: NetName=AVDD Pin=R30-1
+Added Pin To Net: NetName=AVDD Pin=R31-1
+Added Pin To Net: NetName=AVDD Pin=R32-2
+Added Pin To Net: NetName=AVDD Pin=R33-2
+Added Pin To Net: NetName=AVSS Pin=R34-1
+Added Pin To Net: NetName=AVSS Pin=R35-1
+Added Pin To Net: NetName=NetPH1_1 Pin=R38-1
+Added Pin To Net: NetName=NetPH2_1 Pin=R39-1
+Added Pin To Net: NetName=AVDD Pin=R40-2
+Added Pin To Net: NetName=AVDD Pin=R41-2
+Added Pin To Net: NetName=AVSS Pin=R42-2
+Added Pin To Net: NetName=AVSS Pin=R43-2
+Added Pin To Net: NetName=NetTEMP1_1 Pin=U6-1
+Added Pin To Net: NetName=AVSS Pin=U6-4
+Added Pin To Net: NetName=NetTEMP2_1 Pin=U6-7
+Added Pin To Net: NetName=AVDD Pin=U6-8
+Added Pin To Net: NetName=AVSS Pin=U7-3
+Added Pin To Net: NetName=AVSS Pin=U7-4
+Added Pin To Net: NetName=NetPH1_2 Pin=U7-6
+Added Pin To Net: NetName=NetPH1_2 Pin=U7-7
+Added Pin To Net: NetName=AVDD Pin=U7-8
+Added Pin To Net: NetName=AVSS Pin=U8-3
+Added Pin To Net: NetName=AVSS Pin=U8-4
+Added Pin To Net: NetName=NetPH2_2 Pin=U8-6
+Added Pin To Net: NetName=NetPH2_2 Pin=U8-7
+Added Pin To Net: NetName=AVDD Pin=U8-8
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=TEMP1-2
+Added Pin To Net: NetName=NetR30_2 Pin=U6-2
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=TEMP2-2
+Added Pin To Net: NetName=NetR31_2 Pin=U6-6
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=NetR32_1 Pin=R34-2
+Added Pin To Net: NetName=NetR32_1 Pin=U6-3
+Added Net: Name=NetR32_1
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=R35-2
+Added Pin To Net: NetName=NetR33_1 Pin=U6-5
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=R38-2
+Added Pin To Net: NetName=NetR36_1 Pin=U7-2
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U7-1
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=R39-2
+Added Pin To Net: NetName=NetR37_1 Pin=U8-2
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=U8-1
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=R42-1
+Added Pin To Net: NetName=NetR40_1 Pin=U7-5
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=R43-1
+Added Pin To Net: NetName=NetR41_1 Pin=U8-5
+Added Net: Name=NetR41_1
+Added Member To Class: ClassName=IOBoard Member=Component C36 1µF
+Added Member To Class: ClassName=IOBoard Member=Component C37 1µF
+Added Member To Class: ClassName=IOBoard Member=Component C39 100nF
+Added Member To Class: ClassName=IOBoard Member=Component C40 100nF
+Added Member To Class: ClassName=IOBoard Member=Component C41 100nF
+Added Member To Class: ClassName=IOBoard Member=Component C42 1µF
+Added Member To Class: ClassName=IOBoard Member=Component C43 1µF
+Added Member To Class: ClassName=IOBoard Member=Component R30 10K
+Added Member To Class: ClassName=IOBoard Member=Component R31 10K
+Added Member To Class: ClassName=IOBoard Member=Component R32 10K
+Added Member To Class: ClassName=IOBoard Member=Component R33 10K
+Added Member To Class: ClassName=IOBoard Member=Component R34 10K
+Added Member To Class: ClassName=IOBoard Member=Component R35 10K
+Added Member To Class: ClassName=IOBoard Member=Component R36 30.9K
+Added Member To Class: ClassName=IOBoard Member=Component R38 10K
+Added Member To Class: ClassName=IOBoard Member=Component R39 10K
+Added Member To Class: ClassName=IOBoard Member=Component R40 10K
+Added Member To Class: ClassName=IOBoard Member=Component R41 10K
+Added Member To Class: ClassName=IOBoard Member=Component R42 10K
+Added Member To Class: ClassName=IOBoard Member=Component R43 10K
+Added Member To Class: ClassName=IOBoard Member=Component U6 MAX4477
+Added Member To Class: ClassName=IOBoard Member=Component U7 MAX4477

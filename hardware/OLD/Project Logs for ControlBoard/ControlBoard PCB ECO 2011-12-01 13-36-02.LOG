@@ -1,0 +1,111 @@
+Added Component: Designator=B1(Tact TH 4pin 6×6mm)
+Added Component: Designator=B2(Tact TH 4pin 6×6mm)
+Added Component: Designator=B3(Tact TH 4pin 6×6mm)
+Added Component: Designator=B4(Tact TH 4pin 6×6mm)
+Added Component: Designator=B5(Tact TH 4pin 6×6mm)
+Added Component: Designator=B6(Tact TH 4pin 6×6mm)
+Added Component: Designator=B7(Tact TH 4pin 6×6mm)
+Added Component: Designator=B8(Tact TH 4pin 6×6mm)
+Added Component: Designator=D1(DO-214AC)
+Added Component: Designator=L1(INDUCTOR 6×6mm Taiyo Yuden)
+Added Component: Designator=LED1(LED 3528m)
+Added Component: Designator=LED2(LED 3528m)
+Added Component: Designator=LED3(LED 3528m)
+Added Component: Designator=LED4(LED 1608m)
+Added Component: Designator=P1(High-Power Connector 2)
+Added Component: Designator=U3(PSOP3-36)
+Added Component: Designator=VIN(High-Power Connector 2)
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB1_2 Pin=B2-2
+Added Pin To Net: NetName=NetB1_1 Pin=B3-1
+Added Pin To Net: NetName=NetB3_2 Pin=B3-2
+Added Pin To Net: NetName=NetB2_1 Pin=B4-1
+Added Pin To Net: NetName=NetB3_2 Pin=B4-2
+Added Pin To Net: NetName=NetB1_1 Pin=B5-1
+Added Pin To Net: NetName=NetB5_2 Pin=B5-2
+Added Pin To Net: NetName=NetB2_1 Pin=B6-1
+Added Pin To Net: NetName=NetB5_2 Pin=B6-2
+Added Pin To Net: NetName=NetB1_1 Pin=B7-1
+Added Pin To Net: NetName=NetB7_2 Pin=B7-2
+Added Pin To Net: NetName=NetB2_1 Pin=B8-1
+Added Pin To Net: NetName=NetB7_2 Pin=B8-2
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=NetC1_1 Pin=D1-K
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Pin To Net: NetName=V5 Pin=L1-2
+Added Pin To Net: NetName=NetLED1_KR Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_KB Pin=LED1-3
+Added Pin To Net: NetName=NetLED1_KG Pin=LED1-4
+Added Pin To Net: NetName=NetLED2_KR Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_KB Pin=LED2-3
+Added Pin To Net: NetName=NetLED2_KG Pin=LED2-4
+Added Pin To Net: NetName=NetLED3_KR Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_A Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_KB Pin=LED3-3
+Added Pin To Net: NetName=NetLED3_KG Pin=LED3-4
+Added Pin To Net: NetName=NetLED4_A Pin=LED4-1
+Added Pin To Net: NetName=VSS Pin=LED4-2
+Added Pin To Net: NetName=NetC11_2 Pin=P1-1
+Added Pin To Net: NetName=NetC13_1 Pin=P1-2
+Added Pin To Net: NetName=V12 Pin=U3-1
+Added Pin To Net: NetName=NetU1_30 Pin=U3-2
+Added Pin To Net: NetName=NetU1_8 Pin=U3-3
+Added Pin To Net: NetName=NetU1_40 Pin=U3-4
+Added Pin To Net: NetName=NetR22_2 Pin=U3-5
+Added Pin To Net: NetName=NetU1_41 Pin=U3-6
+Added Pin To Net: NetName=NetR23_2 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=AGND Pin=U3-9
+Added Pin To Net: NetName=NetC24_1 Pin=U3-10
+Added Pin To Net: NetName=AGND Pin=U3-11
+Added Pin To Net: NetName=NetC24_1 Pin=U3-12
+Added Pin To Net: NetName=AGND Pin=U3-13
+Added Pin To Net: NetName=GND Pin=U3-14
+Added Pin To Net: NetName=NetR22_2 Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-16
+Added Pin To Net: NetName=V12 Pin=U3-17
+Added Pin To Net: NetName=V12 Pin=U3-18
+Added Pin To Net: NetName=V12 Pin=U3-19
+Added Pin To Net: NetName=NetC33_1 Pin=U3-20
+Added Pin To Net: NetName=V12 Pin=U3-21
+Added Pin To Net: NetName=NetC33_2 Pin=U3-22
+Added Pin To Net: NetName=GND Pin=U3-23
+Added Pin To Net: NetName=GND Pin=U3-24
+Added Pin To Net: NetName=NetC32_2 Pin=U3-25
+Added Pin To Net: NetName=V12 Pin=U3-26
+Added Pin To Net: NetName=NetC32_1 Pin=U3-27
+Added Pin To Net: NetName=NetC31_1 Pin=U3-28
+Added Pin To Net: NetName=V12 Pin=U3-29
+Added Pin To Net: NetName=NetC31_2 Pin=U3-30
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=GND Pin=U3-32
+Added Pin To Net: NetName=NetC30_2 Pin=U3-33
+Added Pin To Net: NetName=V12 Pin=U3-34
+Added Pin To Net: NetName=NetC30_1 Pin=U3-35
+Added Pin To Net: NetName=V12 Pin=U3-36
+Added Pin To Net: NetName=V12 Pin=VIN-1
+Added Pin To Net: NetName=GND Pin=VIN-2
+Change Net Name : Old Net Name=NetCONN1_2 New Net Name=USB_D_N
+Change Net Name : Old Net Name=NetCONN1_3 New Net Name=USB_D_P
+Added Differential Pair: Name=USB_D
+Added Member To Class: ClassName=IOBoard Member=Component B1 Tact Button NO
+Added Member To Class: ClassName=IOBoard Member=Component B2 Tact Button NO
+Added Member To Class: ClassName=IOBoard Member=Component B3 Tact Button NO
+Added Member To Class: ClassName=IOBoard Member=Component B4 Tact Button NO
+Added Member To Class: ClassName=IOBoard Member=Component B5 Tact Button NO
+Added Member To Class: ClassName=IOBoard Member=Component B6 Tact Button NO
+Added Member To Class: ClassName=IOBoard Member=Component B7 Tact Button NO
+Added Member To Class: ClassName=IOBoard Member=Component B8 Tact Button NO
+Added Member To Class: ClassName=ControlBoard Member=Component D1 Schottky Diode
+Added Member To Class: ClassName=ControlBoard Member=Component L1 22µH
+Added Member To Class: ClassName=IOBoard Member=Component LED1 LED RGB common A
+Added Member To Class: ClassName=IOBoard Member=Component LED2 LED RGB common A
+Added Member To Class: ClassName=IOBoard Member=Component LED3 LED RGB common A
+Added Member To Class: ClassName=ControlBoard Member=Component LED4 
+Added Member To Class: ClassName=TECBoard Member=Component P1 High-Power Connector 2p
+Added Member To Class: ClassName=TECBoard Member=Component U3 DRV8432
+Added Member To Class: ClassName=ControlBoard Member=Component VIN High-Power Connector 2p

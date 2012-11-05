@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Added Pin To Net: NetName=NetC16_2 Pin=C34-1
+Added Pin To Net: NetName=NetC15_2 Pin=C34-2
+Added Member To Class: ClassName=TECBoard Member=Component C35 10µF

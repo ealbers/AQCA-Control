@@ -1,0 +1,15 @@
+Added Component: Designator=RS1(PCB Riser 6×10mm 3mm)
+Added Component: Designator=RS2(PCB Riser 6×10mm 3mm)
+Added Component: Designator=RS3(PCB Riser 6×10mm 3mm)
+Added Component: Designator=RS4(PCB Riser 6×10mm 3mm)
+Added Pin To Net: NetName=VSS Pin=RS1-1
+Added Pin To Net: NetName=VSS Pin=RS2-1
+Added Pin To Net: NetName=VSS Pin=RS3-1
+Added Pin To Net: NetName=VSS Pin=RS4-1
+Added Member To Class: ClassName=ControlBoard Member=Component RS1 PCB Riser
+Added Member To Class: ClassName=ControlBoard Member=Component RS2 PCB Riser
+Added Member To Class: ClassName=ControlBoard Member=Component RS3 PCB Riser
+Added Member To Class: ClassName=ControlBoard Member=Component RS4 PCB Riser
+Added Room: Name=ControlBoard
+Added Room: Name=IOBoard
+Added Room: Name=TECBoard

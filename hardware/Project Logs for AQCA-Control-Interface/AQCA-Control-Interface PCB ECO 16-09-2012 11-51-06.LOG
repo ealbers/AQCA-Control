@@ -1,0 +1,171 @@
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=CON3
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=CON4
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=ICSP
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=Q1
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=R1
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=R2
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=R3
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=R5
+Removed Member From Class: ClassName=AQCA-Control-uC-B0 Member=USB1
+Change Component Designator: OldDesignator=B? NewDesignator=A
+Change Component Designator: OldDesignator=B? NewDesignator=B
+Change Component Designator: OldDesignator=B? NewDesignator=C
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=LED? NewDesignator=LED6
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Added Component: Designator=C49(CAPC3225N)
+Added Component: Designator=C50(CAPC1608N)
+Added Component: Designator=C51(CAPC1608N)
+Added Component: Designator=Q3(SOT23-3N)
+Added Component: Designator=Q4(SOT23-3N)
+Added Component: Designator=Q5(SOT23-3N)
+Added Component: Designator=R21(RESC1608N)
+Added Component: Designator=R22(RESC1608N)
+Added Component: Designator=R23(RESC1608N)
+Added Component: Designator=R24(RESC1608N)
+Added Component: Designator=R25(RESC1608N)
+Added Component: Designator=R26(RESC1608N)
+Added Component: Designator=R27(RESC1608N)
+Added Pin To Net: NetName=VSS Pin=C49-1
+Added Pin To Net: NetName=VDD Pin=C49-2
+Added Pin To Net: NetName=VSS Pin=C50-1
+Added Pin To Net: NetName=VDD Pin=C50-2
+Added Pin To Net: NetName=VSS Pin=C51-1
+Added Pin To Net: NetName=VBUS Pin=C51-2
+Added Pin To Net: NetName=VSS Pin=LCD1-2
+Added Pin To Net: NetName=VSS Pin=LCD1-3
+Added Pin To Net: NetName=VSS Pin=LCD1-5
+Added Pin To Net: NetName=VDD Pin=LCD1-10
+Added Pin To Net: NetName=VDD Pin=LCD1-11
+Added Pin To Net: NetName=VSS Pin=LCD1-13
+Added Pin To Net: NetName=VSS Pin=Q3-2
+Added Pin To Net: NetName=VSS Pin=Q4-2
+Added Pin To Net: NetName=VSS Pin=Q5-2
+Added Pin To Net: NetName=VDD Pin=R23-1
+Added Pin To Net: NetName=VSS Pin=R28-1
+Added Pin To Net: NetName=VSS Pin=R29-1
+Added Pin To Net: NetName=VSS Pin=R30-1
+Added Pin To Net: NetName=VSS Pin=R31-1
+Added Pin To Net: NetName=NetA_1 Pin=A-1
+Added Pin To Net: NetName=NetA_1 Pin=R28-2
+Added Pin To Net: NetName=NetA_1 Pin=UP-1
+Added Net: Name=NetA_1
+Added Pin To Net: NetName=NetA_2 Pin=A-4
+Added Pin To Net: NetName=NetA_2 Pin=B-4
+Added Pin To Net: NetName=NetA_2 Pin=C-4
+Added Pin To Net: NetName=NetA_2 Pin=ENTER-4
+Added Net: Name=NetA_2
+Added Pin To Net: NetName=NetB_1 Pin=B-1
+Added Pin To Net: NetName=NetB_1 Pin=LEFT-1
+Added Pin To Net: NetName=NetB_1 Pin=R29-2
+Added Net: Name=NetB_1
+Added Pin To Net: NetName=NetC_1 Pin=C-1
+Added Pin To Net: NetName=NetC_1 Pin=R30-2
+Added Pin To Net: NetName=NetC_1 Pin=RIGHT-1
+Added Net: Name=NetC_1
+Added Pin To Net: NetName=NetDOWN_1 Pin=DOWN-1
+Added Pin To Net: NetName=NetDOWN_1 Pin=ENTER-1
+Added Pin To Net: NetName=NetDOWN_1 Pin=R31-2
+Added Net: Name=NetDOWN_1
+Added Pin To Net: NetName=NetDOWN_2 Pin=DOWN-4
+Added Pin To Net: NetName=NetDOWN_2 Pin=LEFT-4
+Added Pin To Net: NetName=NetDOWN_2 Pin=RIGHT-4
+Added Pin To Net: NetName=NetDOWN_2 Pin=UP-4
+Added Net: Name=NetDOWN_2
+Added Pin To Net: NetName=NetLCD1_4 Pin=LCD1-4
+Added Pin To Net: NetName=NetLCD1_4 Pin=R23-2
+Added Net: Name=NetLCD1_4
+Added Pin To Net: NetName=NetLCD1_6 Pin=LCD1-6
+Added Net: Name=NetLCD1_6
+Added Pin To Net: NetName=NetLCD1_7 Pin=LCD1-7
+Added Net: Name=NetLCD1_7
+Added Pin To Net: NetName=NetLCD1_8 Pin=LCD1-8
+Added Net: Name=NetLCD1_8
+Added Pin To Net: NetName=NetLCD1_9 Pin=LCD1-9
+Added Net: Name=NetLCD1_9
+Added Pin To Net: NetName=NetLCD1_12 Pin=LCD1-12
+Added Net: Name=NetLCD1_12
+Added Pin To Net: NetName=NetLED4_AB Pin=LED4-6
+Added Pin To Net: NetName=NetLED4_AB Pin=LED5-6
+Added Pin To Net: NetName=NetLED4_AB Pin=LED6-6
+Added Pin To Net: NetName=NetLED4_AB Pin=R24-2
+Added Net: Name=NetLED4_AB
+Added Pin To Net: NetName=NetLED4_AG Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_AG Pin=LED5-2
+Added Pin To Net: NetName=NetLED4_AG Pin=LED6-2
+Added Pin To Net: NetName=NetLED4_AG Pin=R22-2
+Added Net: Name=NetLED4_AG
+Added Pin To Net: NetName=NetLED4_AR Pin=LED4-4
+Added Pin To Net: NetName=NetLED4_AR Pin=LED5-4
+Added Pin To Net: NetName=NetLED4_AR Pin=LED6-4
+Added Pin To Net: NetName=NetLED4_AR Pin=R21-2
+Added Net: Name=NetLED4_AR
+Added Pin To Net: NetName=NetLED4_KB Pin=LED4-5
+Added Pin To Net: NetName=NetLED4_KB Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_KB Pin=LED4-3
+Added Pin To Net: NetName=NetLED4_KB Pin=Q3-3
+Added Net: Name=NetLED4_KB
+Added Pin To Net: NetName=NetLED5_KB Pin=LED5-5
+Added Pin To Net: NetName=NetLED5_KB Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_KB Pin=LED5-3
+Added Pin To Net: NetName=NetLED5_KB Pin=Q4-3
+Added Net: Name=NetLED5_KB
+Added Pin To Net: NetName=NetLED6_KB Pin=LED6-5
+Added Pin To Net: NetName=NetLED6_KB Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_KB Pin=LED6-3
+Added Pin To Net: NetName=NetLED6_KB Pin=Q5-3
+Added Net: Name=NetLED6_KB
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R25-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R26-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R27-2
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Net: Name=NetR27_1
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component B Tact Button NO
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C49 10µF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C50 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C51 100nF
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component CON3 Header 3H
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component CON4 Header 3H
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component C Tact Button NO
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component ICSP Header 5
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component LED4 LED RGB
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component LED6 LED RGB
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component Q1 *
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component Q3 2N7002
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component Q4 2N7002
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component Q5 2N7002
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R1 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R2 1K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R3 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R5 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R21 470
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R22 330
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R23 0
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R24 330
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R25 1K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R26 1K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R27 1K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R28 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R29 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component R30 10K
+Added Member To Class: ClassName=AQCA-Control-IO-B0 Member=Component USB1 USB-Conn Mini-B SMD

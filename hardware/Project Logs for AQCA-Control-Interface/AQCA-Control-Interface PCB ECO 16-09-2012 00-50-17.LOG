@@ -1,0 +1,19 @@
+Change Component Comment : Designator=LED1 Old Comment=Blue New Comment=Green
+Added Component: Designator=B?(TACT SMD 4.5×4.5mm)
+Added Component: Designator=B?(TACT SMD 4.5×4.5mm)
+Added Component: Designator=B?(TACT SMD 4.5×4.5mm)
+Added Component: Designator=DOWN(TACT SMD 4.5×4.5mm)
+Added Component: Designator=ENTER(TACT SMD 4.5×4.5mm)
+Added Component: Designator=LCD1(LCD JD-T1800)
+Added Component: Designator=LED?(LED PLCC-6)
+Added Component: Designator=LED?(LED PLCC-6)
+Added Component: Designator=LED?(LED PLCC-6)
+Added Component: Designator=LEFT(TACT SMD 4.5×4.5mm)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=RIGHT(TACT SMD 4.5×4.5mm)
+Added Component: Designator=UP(TACT SMD 4.5×4.5mm)
+Change Class Name : Old Net Name=AQCA-Control-IO-B0 New Net Name=AQCA-Control-uC-B0
+Added Class: Name=AQCA-Control-IO-B0
